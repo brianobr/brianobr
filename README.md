@@ -3,13 +3,13 @@
 ## 🌟 Professional Summary
 With over 25 years of commercial experience in software administration, support, and development, I specialize in full-stack development, particularly with .NET technologies. My career spans collaborations with small businesses, global corporations, and government entities across the United States and abroad. I thrive on solving complex challenges, building impactful solutions, and exploring how Artificial Intelligence can transform society.
 
-Alongside my industry experience, I’ve dedicated 22 years as an Adjunct Faculty at Dallas College, empowering students to earn industry-recognized certifications and prepare for professional success. My commitment to growth, innovation, and mentoring has been a driving force throughout my journey in technology
+Alongside my industry experience, I’ve dedicated 22 years as an Adjunct Faculty at Dallas College, empowering students to earn industry-recognized certifications and prepare for professional success. My commitment to growth, innovation, and mentoring has been a driving force throughout my journey in technology.
 
 ## 💻 Technical Skills
 With a robust foundation in software development, administration, and support, my technical expertise includes:
 
 **Programming & Development:**  
--Full-stack development, specializing in *.NET technologies*, including *.NET MAUI*
+- Full-stack development, specializing in *.NET technologies*, including *.NET MAUI*
 - Proficient in **C++**, **Python**, and other programming languages  
 - Expertise in **ARM templates**, **Bicep scripts**, and **Azure policy troubleshooting**  
 
@@ -27,7 +27,7 @@ With a robust foundation in software development, administration, and support, m
 - Knowledge of system architectures and ensuring compliance with regulations like **HIPAA**  
 
 **Emerging Technologies:**  
-- Active interest in Artificial Intelligence, including its innovative and practical applications
+- Actively exploring Artificial Intelligence and its innovative applications.
 
 **Development Tools & Frameworks:**  
 - Skilled in leveraging tools and frameworks like **Visual Studio**, **.NET MAUI**, **Agile methodologies**, and **Git**  
