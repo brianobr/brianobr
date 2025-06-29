@@ -10,7 +10,7 @@ With a robust foundation in software development, administration, and support, m
 
 **Programming & Development:**  
 - Full-stack development, specializing in *.NET technologies*, including *.NET MAUI*
-- Proficient in **C++**, **Python**, and other programming languages  
+- Proficient in **C#**, **Python**, **C++** and other programming languages  
 - Expertise in **ARM templates**, **Bicep scripts**, and **Azure policy troubleshooting**  
 
 **Cloud & On-Premises Solutions:**  
